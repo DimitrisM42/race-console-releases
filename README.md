@@ -4,7 +4,7 @@ Windows race telemetry companion for F1 25.
 
 ## Download
 
-[Download RACE CONSOLE 0.166.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.166.0/RACE-CONSOLE-0.166.0-stable-Setup.exe)
+[Download RACE CONSOLE 0.167.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.167.0/RACE-CONSOLE-0.167.0-stable-Setup.exe)
 
 [All releases and checksums](https://github.com/DimitrisM42/race-console-releases/releases)
 
@@ -35,4 +35,3 @@ only. Application source code and the private CGCrew edition are not included.
 Team marks are trademarks of their respective owners. RACE CONSOLE is not an
 official Formula 1 or EA product. See the bundled privacy and third-party notices
 for details.
-
