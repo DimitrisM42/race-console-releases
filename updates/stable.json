@@ -1,8 +1,8 @@
 {
-  "version": "0.169.0",
+  "version": "0.170.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.169.0/RACE-CONSOLE-0.169.0-stable-Setup.exe",
-  "sha256": "3024efb226613d4979bb934975e4cea379bda502c61f63ac12ea922b49b9db4f",
-  "sizeBytes": 156851280,
-  "releaseNotes": "Adds Ctrl + and Ctrl - zoom shortcuts with Ctrl 0 reset, and a quick recording control in the top bar. Improves 2025 car-year and Kick Sauber identification, and balances team-logo sizing in the top bar. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.170.0/RACE-CONSOLE-0.170.0-stable-Setup.exe",
+  "sha256": "32b5b448736c9e5be048b7229724b4386f9cdad20fb8cdd31b37c6012ca18d8d",
+  "sizeBytes": 156861467,
+  "releaseNotes": "Makes the top-bar recording button smaller, adds clear toasts for update checks, and colors dashboard inner tyre temperatures. Refines the update download icon. User settings and recordings are preserved."
 }
