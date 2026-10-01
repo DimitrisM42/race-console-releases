@@ -1,8 +1,8 @@
 {
-  "version": "0.167.0",
+  "version": "0.168.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.167.0/RACE-CONSOLE-0.167.0-stable-Setup.exe",
-  "sha256": "53843b0520dfaead724aeb636c0dde1002a9ae67e50d9632f63aa36904af795a",
-  "sizeBytes": 156668644,
-  "releaseNotes": "New Lap Story card highlights the main change from the previous valid lap, including sector pace and tyre-wear changes. Improved Settings layout and alert controls. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.168.0/RACE-CONSOLE-0.168.0-stable-Setup.exe",
+  "sha256": "09c3eb0a08eda3229ab453d65186f9c02b774333fccdd6173288b968fdab6f5d",
+  "sizeBytes": 156850828,
+  "releaseNotes": "The update alert now has a clearer download icon and status ring on the left side of the top bar. The RACE CONSOLE logo replaces the RC placeholder while team detection is pending. User settings and recordings are preserved."
 }
