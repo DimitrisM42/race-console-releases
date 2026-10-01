@@ -1,8 +1,8 @@
 {
-  "version": "0.166.0",
+  "version": "0.167.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.166.0/RACE-CONSOLE-0.166.0-stable-Setup.exe",
-  "sha256": "81d59f5022423706e6fb934b8b150bdb26a8f5242cae8248692fae07579f63b1",
-  "sizeBytes": 156657936,
-  "releaseNotes": "Improved track alignment for Australia, China, Japan, Bahrain, Jeddah, Miami, Monaco, Spain and Canada; Imola rechecked. Fixed floor-damage outlines and preserved body fills. Road edges remain estimated and pit routes need further verification. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.167.0/RACE-CONSOLE-0.167.0-stable-Setup.exe",
+  "sha256": "53843b0520dfaead724aeb636c0dde1002a9ae67e50d9632f63aa36904af795a",
+  "sizeBytes": 156668644,
+  "releaseNotes": "New Lap Story card highlights the main change from the previous valid lap, including sector pace and tyre-wear changes. Improved Settings layout and alert controls. User settings and recordings are preserved."
 }
