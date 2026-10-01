@@ -1,0 +1,9 @@
+{
+  "version": "0.165.0",
+  "channel": "stable",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.165.0/RACE-CONSOLE-0.165.0-stable-Setup.exe",
+  "sha256": "4f10ed832b27f63ccc02d53aa9f640815cd55e91b1c0b61a88e2a5ffdc1e1f62",
+  "sizeBytes": 156654655,
+  "releaseNotes": "Windows installer, sharper team logos, and app update checks. User settings and recordings are preserved."
+}
+
