@@ -1,9 +1,8 @@
 {
-  "version": "0.165.0",
+  "version": "0.166.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.165.0/RACE-CONSOLE-0.165.0-stable-Setup.exe",
-  "sha256": "4f10ed832b27f63ccc02d53aa9f640815cd55e91b1c0b61a88e2a5ffdc1e1f62",
-  "sizeBytes": 156654655,
-  "releaseNotes": "Windows installer, sharper team logos, and app update checks. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.166.0/RACE-CONSOLE-0.166.0-stable-Setup.exe",
+  "sha256": "81d59f5022423706e6fb934b8b150bdb26a8f5242cae8248692fae07579f63b1",
+  "sizeBytes": 156657936,
+  "releaseNotes": "Improved track alignment for Australia, China, Japan, Bahrain, Jeddah, Miami, Monaco, Spain and Canada; Imola rechecked. Fixed floor-damage outlines and preserved body fills. Road edges remain estimated and pit routes need further verification. User settings and recordings are preserved."
 }
-
