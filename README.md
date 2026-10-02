@@ -4,7 +4,7 @@ Windows race telemetry companion for F1 25.
 
 ## Download
 
-[Download RACE CONSOLE 0.170.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.170.0/RACE-CONSOLE-0.170.0-stable-Setup.exe)
+[Download RACE CONSOLE 0.171.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.171.0/RACE-CONSOLE-0.171.0-stable-Setup.exe)
 
 [All releases and checksums](https://github.com/DimitrisM42/race-console-releases/releases)
 
