@@ -4,7 +4,7 @@ Windows race telemetry companion for F1 25.
 
 ## Download
 
-[Download RACE CONSOLE 0.171.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.171.0/RACE-CONSOLE-0.171.0-stable-Setup.exe)
+[Download RACE CONSOLE 0.172.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.172.0/RACE-CONSOLE-0.172.0-stable-Setup.exe)
 
 [All releases and checksums](https://github.com/DimitrisM42/race-console-releases/releases)
 
@@ -15,8 +15,9 @@ upgrading or uninstalling.
 ## Updates
 
 Open **Settings → App & Updates** to check manually or enable checks when the app
-opens. New versions are downloaded only when requested; installation requires
-confirmation. Stop recording before installing an update.
+opens. Press the header update icon to download with real percentage progress.
+After verification it becomes Install; press it separately when ready.
+Stop recording before installing an update.
 
 Installers downloaded before GitHub updates were connected need one manual
 install of the connected version above.
