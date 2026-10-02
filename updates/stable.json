@@ -1,8 +1,8 @@
 {
-  "version": "0.171.0",
+  "version": "0.172.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.171.0/RACE-CONSOLE-0.171.0-stable-Setup.exe",
-  "sha256": "4fd2c50d33443a27481993a5d598c82d28df5a03c397f36fac2b9b6b02d1c62f",
-  "sizeBytes": 156845519,
-  "releaseNotes": "Adds consistent Tabler Outline icons across navigation, section headings, Settings, replay and recording controls, setup actions, and window controls. Playback and update icons follow their current action. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.172.0/RACE-CONSOLE-0.172.0-stable-Setup.exe",
+  "sha256": "a0f23aa86f6687ae546e7ceb35097a367c9ab422189c81a78efce06662e2845c",
+  "sizeBytes": 156868964,
+  "releaseNotes": "Adds a searchable replay library, personal timestamp bookmarks and a guided first-run setup. The header update button shows actual download progress and becomes an Install icon after verification. Installation starts only when you press Install. User settings and recordings are preserved."
 }
