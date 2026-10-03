@@ -1,8 +1,8 @@
 {
-  "version": "0.174.0",
+  "version": "0.175.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.174.0/RACE-CONSOLE-0.174.0-stable-Setup.exe",
-  "sha256": "668069a14f9136bff0aa88675f464c4ba1014b38ee8b41616dc0ea78627efe41",
-  "sizeBytes": 156992935,
-  "releaseNotes": "Adds the new red/white R logo and header dividers. The updater expands to the right with the real download percentage and a thin progress bar, then shows Install after verification. Installation still requires a separate click. Removes the replay library slogan. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.175.0/RACE-CONSOLE-0.175.0-stable-Setup.exe",
+  "sha256": "d670b21fd93dace523d2710d95dc0d524e98f28c5760cc3d356e5cde45d90f2f",
+  "sizeBytes": 157278594,
+  "releaseNotes": "Personalizes the Windows installer with the RACE CONSOLE logo, a persistent charcoal branding panel, app-specific welcome and completion screens, and a red progress bar with the actual installation percentage. User settings and recordings are preserved."
 }
