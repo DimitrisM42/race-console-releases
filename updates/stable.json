@@ -1,8 +1,8 @@
 {
-  "version": "0.173.0",
+  "version": "0.174.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.173.0/RACE-CONSOLE-0.173.0-stable-Setup.exe",
-  "sha256": "753bc7cbe784051794bec9cb5d25954f8bea0f8a14054b7cc9aa8b0144be32b1",
-  "sizeBytes": 156873797,
-  "releaseNotes": "Adds an optional six-step spotlight tour after first-run setup, explaining navigation, connection status, Dashboard, recording, Replays and bookmarks. Reopen it from Settings - Restart tutorial. Existing installations are not prompted after updating. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.174.0/RACE-CONSOLE-0.174.0-stable-Setup.exe",
+  "sha256": "668069a14f9136bff0aa88675f464c4ba1014b38ee8b41616dc0ea78627efe41",
+  "sizeBytes": 156992935,
+  "releaseNotes": "Adds the new red/white R logo and header dividers. The updater expands to the right with the real download percentage and a thin progress bar, then shows Install after verification. Installation still requires a separate click. Removes the replay library slogan. User settings and recordings are preserved."
 }
