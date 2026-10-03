@@ -1,8 +1,8 @@
 {
-  "version": "0.175.0",
+  "version": "0.176.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.175.0/RACE-CONSOLE-0.175.0-stable-Setup.exe",
-  "sha256": "d670b21fd93dace523d2710d95dc0d524e98f28c5760cc3d356e5cde45d90f2f",
-  "sizeBytes": 157278594,
-  "releaseNotes": "Personalizes the Windows installer with the RACE CONSOLE logo, a persistent charcoal branding panel, app-specific welcome and completion screens, and a red progress bar with the actual installation percentage. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.176.0/RACE-CONSOLE-0.176.0-stable-Setup.exe",
+  "sha256": "4d50d893ee19b12b3d5a77f76128adac8402aee387875651feaf750cc74d0b07",
+  "sizeBytes": 157274761,
+  "releaseNotes": "Refines the Windows installer with a branded charcoal title bar, working minimize and close controls, a thin rounded window outline, red primary buttons and outlined secondary buttons. User settings and recordings are preserved."
 }
