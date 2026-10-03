@@ -1,8 +1,8 @@
 {
-  "version": "0.176.0",
+  "version": "0.177.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.176.0/RACE-CONSOLE-0.176.0-stable-Setup.exe",
-  "sha256": "4d50d893ee19b12b3d5a77f76128adac8402aee387875651feaf750cc74d0b07",
-  "sizeBytes": 157274761,
-  "releaseNotes": "Refines the Windows installer with a branded charcoal title bar, working minimize and close controls, a thin rounded window outline, red primary buttons and outlined secondary buttons. User settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.177.0/RACE-CONSOLE-0.177.0-stable-Setup.exe",
+  "sha256": "f6a09cab76a912c314d8b274d782325fa1351934e3321cde1e1889587cc71ade",
+  "sizeBytes": 157293605,
+  "releaseNotes": "Improves Dashboard readability and compact layouts, adds per-tyre wear and temperature detail, expands the first-launch tutorial, and refines update progress and zoom controls. Existing settings and recordings are preserved."
 }
