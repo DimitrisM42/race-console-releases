@@ -4,13 +4,19 @@ Windows race telemetry companion for F1 25.
 
 ## Download
 
-[Download RACE CONSOLE 0.174.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.174.0/RACE-CONSOLE-0.174.0-stable-Setup.exe)
+[Download RACE CONSOLE 0.175.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.175.0/RACE-CONSOLE-0.175.0-stable-Setup.exe)
 
 [All releases and checksums](https://github.com/DimitrisM42/race-console-releases/releases)
 
 Run the installer to add RACE CONSOLE and a Start menu shortcut. A separate .NET
 runtime installation is not needed. Settings and recordings are preserved when
 upgrading or uninstalling.
+
+## Personalized installer
+
+Setup uses the RACE CONSOLE logo and a persistent charcoal branding panel,
+with app-specific welcome and completion screens. Installation shows a red
+progress bar and the actual percentage.
 
 ## Guided tour
 
