@@ -4,7 +4,7 @@ Windows race telemetry companion for F1 25.
 
 ## Download
 
-[Download RACE CONSOLE 0.173.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.173.0/RACE-CONSOLE-0.173.0-stable-Setup.exe)
+[Download RACE CONSOLE 0.174.0 for Windows x64](https://github.com/DimitrisM42/race-console-releases/releases/download/v0.174.0/RACE-CONSOLE-0.174.0-stable-Setup.exe)
 
 [All releases and checksums](https://github.com/DimitrisM42/race-console-releases/releases)
 
@@ -17,6 +17,13 @@ upgrading or uninstalling.
 Fresh installations offer an optional six-step spotlight tour after Getting
 started. Skip it or finish at your own pace. Open **Settings → Restart tutorial**
 to take it again. Existing installations are not prompted after an update.
+
+## Header update
+
+The new red-and-white R mark now appears in the app and Windows icon. The
+header updater expands to the right with the actual percentage and a thin
+progress bar, then shows **INSTALL** after verification. Thin dividers separate
+the logo, connection status and updater.
 
 ## Updates
 
