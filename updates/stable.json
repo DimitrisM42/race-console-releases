@@ -1,8 +1,8 @@
 {
-  "version": "0.177.0",
+  "version": "0.178.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.177.0/RACE-CONSOLE-0.177.0-stable-Setup.exe",
-  "sha256": "f6a09cab76a912c314d8b274d782325fa1351934e3321cde1e1889587cc71ade",
-  "sizeBytes": 157293605,
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.178.0/RACE-CONSOLE-0.178.0-stable-Setup.exe",
+  "sha256": "20cdcb44088aa1317ecf73007951329fffe25e104dfa378f81711f2cf207d559",
+  "sizeBytes": 157302998,
   "releaseNotes": "Improves Dashboard readability and compact layouts, adds per-tyre wear and temperature detail, expands the first-launch tutorial, and refines update progress and zoom controls. Existing settings and recordings are preserved."
 }
