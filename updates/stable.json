@@ -4,5 +4,5 @@
   "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.178.0/RACE-CONSOLE-0.178.0-stable-Setup.exe",
   "sha256": "20cdcb44088aa1317ecf73007951329fffe25e104dfa378f81711f2cf207d559",
   "sizeBytes": 157302998,
-  "releaseNotes": "Improves Dashboard readability and compact layouts, adds per-tyre wear and temperature detail, expands the first-launch tutorial, and refines update progress and zoom controls. Existing settings and recordings are preserved."
+  "releaseNotes": "Fixes whole-app zoom and instant zoom feedback, adds Metric / Imperial settings, redesigns Replays with real circuit outlines, improves the replay timeline while retaining lap times, and adds a two-line race flag indicator. Existing settings and recordings are preserved."
 }
