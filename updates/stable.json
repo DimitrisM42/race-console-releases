@@ -1,8 +1,9 @@
 {
-  "version": "0.179.0",
+  "version": "0.181.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.179.0/RACE-CONSOLE-0.179.0-stable-Setup.exe",
-  "sha256": "b3a04fc6e242b787b1732729bf8c1e636701eced4989177df046707417b2a17f",
-  "sizeBytes": 157299066,
-  "releaseNotes": "Adds a saved Metric / Imperial toggle, compact Settings pages and narrow styled scrollbars. Opens in a wider, slightly taller window and makes the replay timeline a fixed compact size. Existing settings and recordings are preserved."
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.181.0/RACE-CONSOLE-0.181.0-stable-Setup.exe",
+  "supportsChannelSwitch": true,
+  "sha256": "e4c19daa67e89b6f0ca473f3d269cf6ce9c508755363c24e8166dc47f5e2db20",
+  "sizeBytes": 157292943,
+  "releaseNotes": "Adds optional beta enrolment in Settings → App → Release channels. Unlock named betas with an invitation code, switch explicitly, and return to Stable. Settings are backed up and channel profiles remain separate; recordings are preserved."
 }
