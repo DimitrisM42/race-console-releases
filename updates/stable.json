@@ -1,9 +1,9 @@
 {
-  "version": "0.184.0",
+  "version": "0.185.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.184.0/RACE-CONSOLE-0.184.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.185.0/RACE-CONSOLE-0.185.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "6b8e4555e938740874220f043969895a97e800ec73fb09220f5067f9c49287b0",
-  "sizeBytes": 157309408,
-  "releaseNotes": "Redesigns Settings with a compact icon-and-label rail, red selection highlight, and clear rows for App settings. Connection, App, Replay and Alerts controls remain available; existing preferences and release-channel switching are preserved."
+  "sha256": "6b79a5203744e470fd25150569f615590b5ec6a25b468099df7b573f71bb40b2",
+  "sizeBytes": 157300979,
+  "releaseNotes": "Widens the replay timeline from 100 to 250 pixels for easier seeking and clearer event markers. Retains replay controls, session metrics and footer navigation."
 }
