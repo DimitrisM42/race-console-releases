@@ -1,9 +1,9 @@
 {
-  "version": "0.181.0",
+  "version": "0.184.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.181.0/RACE-CONSOLE-0.181.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.184.0/RACE-CONSOLE-0.184.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "e4c19daa67e89b6f0ca473f3d269cf6ce9c508755363c24e8166dc47f5e2db20",
-  "sizeBytes": 157292943,
-  "releaseNotes": "Adds optional beta enrolment in Settings → App → Release channels. Unlock named betas with an invitation code, switch explicitly, and return to Stable. Settings are backed up and channel profiles remain separate; recordings are preserved."
+  "sha256": "6b8e4555e938740874220f043969895a97e800ec73fb09220f5067f9c49287b0",
+  "sizeBytes": 157309408,
+  "releaseNotes": "Redesigns Settings with a compact icon-and-label rail, red selection highlight, and clear rows for App settings. Connection, App, Replay and Alerts controls remain available; existing preferences and release-channel switching are preserved."
 }
