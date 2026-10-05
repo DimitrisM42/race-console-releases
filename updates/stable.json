@@ -1,9 +1,9 @@
 {
-  "version": "0.185.0",
+  "version": "0.186.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.185.0/RACE-CONSOLE-0.185.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.186.0/RACE-CONSOLE-0.186.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "6b79a5203744e470fd25150569f615590b5ec6a25b468099df7b573f71bb40b2",
-  "sizeBytes": 157300979,
-  "releaseNotes": "Widens the replay timeline from 100 to 250 pixels for easier seeking and clearer event markers. Retains replay controls, session metrics and footer navigation."
+  "sha256": "f9d811a9339fb9b1259e3c04f93f8c4fb53e86eeb39e016ec6f879b08eb85dd7",
+  "sizeBytes": 157309602,
+  "releaseNotes": "Centers the replay controls with a timeline that adapts to window width. Simplifies first-run setup to UDP followed by Continue into the guided tutorial. Preserves existing installations without repeated onboarding."
 }
