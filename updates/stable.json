@@ -1,9 +1,9 @@
 {
-  "version": "0.186.0",
+  "version": "0.187.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.186.0/RACE-CONSOLE-0.186.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.187.0/RACE-CONSOLE-0.187.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "f9d811a9339fb9b1259e3c04f93f8c4fb53e86eeb39e016ec6f879b08eb85dd7",
-  "sizeBytes": 157309602,
-  "releaseNotes": "Centers the replay controls with a timeline that adapts to window width. Simplifies first-run setup to UDP followed by Continue into the guided tutorial. Preserves existing installations without repeated onboarding."
+  "sha256": "a04be8ad5be11685b68b5111a483335cfe8849dec7e076042790f14b8ce2d3fc",
+  "sizeBytes": 157319367,
+  "releaseNotes": "Adds Settings → Help for bug reports and support, a top-bar REC visibility toggle, selectable interface accents, replay marker visibility and informational notification preferences with compact switches. Preferences are saved per channel; telemetry and warning colors retain their meaning. Public bug reports and support requests use dedicated GitHub forms."
 }
