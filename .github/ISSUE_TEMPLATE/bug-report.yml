@@ -1,0 +1,39 @@
+name: Report a bug
+description: Report a problem with the public RACE CONSOLE app.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Remove personal information from attachments. For private builds, contact Dimitris privately."
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      placeholder: "0.187.0"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows and game versions
+      placeholder: "Windows 11, F1 25 / 2026 Season Pack"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open…\n2. Select…\n3. Observe…"
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or additional details (optional)
+      description: "Attach only files you want to share publicly. Never include activation codes or pairing details."
