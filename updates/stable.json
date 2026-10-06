@@ -1,9 +1,9 @@
 {
-  "version": "0.188.0",
+  "version": "0.189.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.188.0/RACE-CONSOLE-0.188.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.189.0/RACE-CONSOLE-0.189.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "7204f460d3ea98c908097184ab90eb747bc549d81b8debb616aedac5c9d16342",
-  "sizeBytes": 157311765,
-  "releaseNotes": "Gives App, Custom and Help distinct settings icons and keeps the top navigation centered in the window when REC and update controls appear or expand. Verified at multiple window widths for both release channels."
+  "sha256": "50bdddb0b122097ca3152fbd74a75d3919c13c611d1d1e94d62b3c20a6c644b2",
+  "sizeBytes": 157312678,
+  "releaseNotes": "Refines alert threshold sliders with thin accent tracks and boxed values, moves REC visibility to Customize, keeps unclassified qualifying out-lap cars visible on the map and prevents fixed telemetry arrays from adding nonexistent Time Trial participants. Build, settings layout and focused packet checks passed; real-session confirmation remains pending."
 }
