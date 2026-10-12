@@ -1,9 +1,9 @@
 {
-  "version": "0.189.0",
+  "version": "0.190.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.189.0/RACE-CONSOLE-0.189.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.190.0/RACE-CONSOLE-0.190.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "50bdddb0b122097ca3152fbd74a75d3919c13c611d1d1e94d62b3c20a6c644b2",
-  "sizeBytes": 157312678,
-  "releaseNotes": "Refines alert threshold sliders with thin accent tracks and boxed values, moves REC visibility to Customize, keeps unclassified qualifying out-lap cars visible on the map and prevents fixed telemetry arrays from adding nonexistent Time Trial participants. Build, settings layout and focused packet checks passed; real-session confirmation remains pending."
+  "sha256": "8cb269d26928a36d32537eee1178672ddf282c7c383790d91b6cf77263b5a09e",
+  "sizeBytes": 157309100,
+  "releaseNotes": "Adds automatic interface scaling based on window width and height: larger windows receive larger text and controls, smaller windows fit more comfortably, and the existing visual structure is preserved. Ctrl plus/minus adjusts zoom relative to automatic sizing; Ctrl+0 restores automatic sizing. Includes the header, footer and CGCrew phone. Regression, keyboard zoom and rendered resolution checks passed; physical monitor/DPI confirmation remains pending."
 }
