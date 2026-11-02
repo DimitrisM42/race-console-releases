@@ -1,9 +1,9 @@
 {
-  "version": "0.191.0",
+  "version": "0.192.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.191.0/RACE-CONSOLE-0.191.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.192.0/RACE-CONSOLE-0.192.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "4a12fb49845741ddb76b6d706d6a1af9576577b055c338134c160dc4d614007e",
-  "sizeBytes": 157559909,
-  "releaseNotes": "Adds optional Discord Rich Presence with track/session and privacy controls, off by default. Adds subtle player-tyre smoke for lock-ups, wheelspin and slides in the local radar, with a Customize toggle and replay pause/seek support. Fixes qualifying out-lap map visibility and excludes unused cars and ghost slots from Time Trial views. Uses a compact 52px header with equal dashboard gaps, improves Vehicle and Rival page fit, styles remaining checkboxes, and shows neutral readouts when telemetry is unavailable."
+  "sha256": "4129790d3c166764b17449e69b839d6e533ca4e57dae592049f2abf6f90468cd",
+  "sizeBytes": 157561285,
+  "releaseNotes": "Fixes drivers disappearing from the full track map, Timing and rival selection after pit stops or a reduction in the active-car count. Driver slots now remain stable throughout the session and reset correctly for a new session. Verified against the real demo pit stop, including pit exit, Timing and rival selection, with 2025/2026 packet checks and Time Trial isolation."
 }
