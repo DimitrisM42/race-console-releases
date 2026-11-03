@@ -1,9 +1,9 @@
 {
-  "version": "0.192.0",
+  "version": "0.193.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.192.0/RACE-CONSOLE-0.192.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.193.0/RACE-CONSOLE-0.193.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "4129790d3c166764b17449e69b839d6e533ca4e57dae592049f2abf6f90468cd",
-  "sizeBytes": 157561285,
-  "releaseNotes": "Fixes drivers disappearing from the full track map, Timing and rival selection after pit stops or a reduction in the active-car count. Driver slots now remain stable throughout the session and reset correctly for a new session. Verified against the real demo pit stop, including pit exit, Timing and rival selection, with 2025/2026 packet checks and Time Trial isolation."
+  "sha256": "4090f98418a1978efece797537763d1f3b8b18ded434580ad717f679cd1ef75e",
+  "sizeBytes": 157574084,
+  "releaseNotes": "Keeps completed session results visible until the next session is ready. Fixes header logo sizing, pit-entry card overlap, replay chart refresh and qualifying phase resets. Improves replay seeking, missing-data labels, compact layouts and update feedback. Adds restrained interface motion with Windows reduced-motion support."
 }
