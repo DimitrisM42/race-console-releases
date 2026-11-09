@@ -1,9 +1,9 @@
 {
-  "version": "0.193.0",
+  "version": "0.196.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.193.0/RACE-CONSOLE-0.193.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.196.0/RACE-CONSOLE-0.196.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "4090f98418a1978efece797537763d1f3b8b18ded434580ad717f679cd1ef75e",
-  "sizeBytes": 157574084,
-  "releaseNotes": "Keeps completed session results visible until the next session is ready. Fixes header logo sizing, pit-entry card overlap, replay chart refresh and qualifying phase resets. Improves replay seeking, missing-data labels, compact layouts and update feedback. Adds restrained interface motion with Windows reduced-motion support."
+  "sha256": "6bae659f510ddf2e259cae09819df5ba22189ee1dbbec9cb6974aca1cdfcdcf8",
+  "sizeBytes": 157588786,
+  "releaseNotes": "Race decisions, Live Track battle focus, race start and restart graphics, and the expanded tutorial and Help guide."
 }
