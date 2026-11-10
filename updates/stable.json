@@ -1,9 +1,9 @@
 {
-  "version": "0.196.0",
+  "version": "0.197.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.196.0/RACE-CONSOLE-0.196.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.197.0/RACE-CONSOLE-0.197.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "6bae659f510ddf2e259cae09819df5ba22189ee1dbbec9cb6974aca1cdfcdcf8",
-  "sizeBytes": 157588786,
-  "releaseNotes": "Race decisions, Live Track battle focus, race start and restart graphics, and the expanded tutorial and Help guide."
+  "sha256": "d16e43634c809932b37e6fa8e956c8903ee49c062be778f18d32d943c0988c23",
+  "sizeBytes": 157603046,
+  "releaseNotes": "Improves readability and alignment across race views and Settings. Fixes clipped Settings navigation, aligns Timing columns and stacks replay notes in narrower windows. Adds broadcast-style motion, map and vehicle inspection, lap comparisons and replay lap jumps. Cleans up old installers downloaded by the built-in updater."
 }
