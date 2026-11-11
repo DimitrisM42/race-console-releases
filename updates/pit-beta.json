@@ -1,9 +1,9 @@
 {
-  "version": "0.200.0-beta.1",
+  "version": "1.0.0-pitlink-beta.1",
   "channel": "pit-beta",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/pit-beta-v0.200.0-beta.1/RACE-CONSOLE-0.200.0-beta.1-pit-beta-channel-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/pit-beta-v1.0.0-pitlink-beta.1/RACE-CONSOLE-1.0.0-pitlink-beta.1-pit-beta-channel-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "983e1467bd71b5b4b8f6e47e7cd83fe7219b016a3e033ee954fc2331b4d3bf1b",
-  "sizeBytes": 157623420,
-  "releaseNotes": "Pit Link is now an open beta. Anyone can download this build and receive updates without an enrollment code. Host and Join still use a private invitation for each direct connection."
+  "sha256": "0387247bc4e1c70af6884ae8371068dd62fed8b5ecbc5f82591838533433d950",
+  "sizeBytes": 157619016,
+  "releaseNotes": "Pit Link open beta for RACE CONSOLE 1.0. Connect driver and mechanic over a direct encrypted Host / Join connection."
 }
