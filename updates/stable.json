@@ -1,9 +1,9 @@
 {
-  "version": "0.198.0",
+  "version": "0.199.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.198.0/RACE-CONSOLE-0.198.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.199.0/RACE-CONSOLE-0.199.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "d4a42c962ebb651020dfae758df779bf2919d0ed10d769d0f0a5af07435e3b8a",
-  "sizeBytes": 157616541,
-  "releaseNotes": "Migration release for semantic versioning. The updater now understands numeric releases and beta.N prereleases. Improves Dashboard, Timing and footer readability in compact windows, restores race start lights, adds relative gaps to Live Track, remembers the Timing gap mode, and rewrites the Help guides."
+  "sha256": "b0d40d726b6052e5f60671f3ecf5be501d2530b9b746f5933ae715a1fc5ed34c",
+  "sizeBytes": 157613549,
+  "releaseNotes": "Pit Link Open Beta is now available in Settings, App, Release channels. Select it to download and install without an invitation code. Private channels still require their own invitations."
 }
