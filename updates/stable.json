@@ -1,9 +1,9 @@
 {
-  "version": "0.199.0",
+  "version": "1.0.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.199.0/RACE-CONSOLE-0.199.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v1.0.0/RACE-CONSOLE-1.0.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "b0d40d726b6052e5f60671f3ecf5be501d2530b9b746f5933ae715a1fc5ed34c",
-  "sizeBytes": 157613549,
-  "releaseNotes": "Pit Link Open Beta is now available in Settings, App, Release channels. Select it to download and install without an invitation code. Private channels still require their own invitations."
+  "sha256": "c64fe4dad07b983a242d5888c0d39823e646a39d26d1e797d113d9c5ad1d6f44",
+  "sizeBytes": 157604824,
+  "releaseNotes": "RACE CONSOLE 1.0.0. Stable launch release with live telemetry, timing, strategy, race preparation, replays and content-creation tools."
 }
