@@ -1,9 +1,9 @@
 {
-  "version": "0.197.0",
+  "version": "0.198.0",
   "channel": "stable",
-  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.197.0/RACE-CONSOLE-0.197.0-stable-Setup.exe",
+  "downloadUrl": "https://github.com/DimitrisM42/race-console-releases/releases/download/v0.198.0/RACE-CONSOLE-0.198.0-stable-Setup.exe",
   "supportsChannelSwitch": true,
-  "sha256": "d16e43634c809932b37e6fa8e956c8903ee49c062be778f18d32d943c0988c23",
-  "sizeBytes": 157603046,
-  "releaseNotes": "Improves readability and alignment across race views and Settings. Fixes clipped Settings navigation, aligns Timing columns and stacks replay notes in narrower windows. Adds broadcast-style motion, map and vehicle inspection, lap comparisons and replay lap jumps. Cleans up old installers downloaded by the built-in updater."
+  "sha256": "d4a42c962ebb651020dfae758df779bf2919d0ed10d769d0f0a5af07435e3b8a",
+  "sizeBytes": 157616541,
+  "releaseNotes": "Migration release for semantic versioning. The updater now understands numeric releases and beta.N prereleases. Improves Dashboard, Timing and footer readability in compact windows, restores race start lights, adds relative gaps to Live Track, remembers the Timing gap mode, and rewrites the Help guides."
 }
